@@ -16,6 +16,7 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
+    "@types/react": "^16.9.35",
     "express": "^4.16.4"
   }
 }
